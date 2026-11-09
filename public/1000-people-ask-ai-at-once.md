@@ -2,6 +2,7 @@
 title: "1,000 人が同時に AI に質問したら、誰が最初に答えをもらうのか? KV キャッシュと continuous batching"
 tags: [llm, kv-cache, continuous-batching, llm-serving, system-design]
 private: false
+id: 76d9c4d7ac4a80e2deff
 ---
 本記事は System Design Simple の英語記事の日本語版です。原文: https://systemdesignsimple.com/1000-people-ask-ai-at-once/
 

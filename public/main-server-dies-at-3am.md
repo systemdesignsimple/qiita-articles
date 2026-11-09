@@ -2,6 +2,7 @@
 title: "サーバーフェイルオーバー: アクティブ・パッシブ vs アクティブ・アクティブ"
 tags: [failover, reliability, active-passive, active-active, system-design]
 private: false
+id: 8e9394bb6f6dac0fadee
 ---
 本記事は System Design Simple の英語記事の日本語版です。原文: https://systemdesignsimple.com/main-server-dies-at-3am/
 
