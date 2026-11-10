@@ -2,6 +2,7 @@
 title: "1日100万件の配車。最初の5分で何を決めるか"
 tags: [system-design, requirements, slo, error-budget, capacity-estimation]
 private: false
+id: 613477d152de36ba0735
 ---
 本記事は System Design Simple の英語記事の日本語版です。原文: https://systemdesignsimple.com/ride-app-requirements/
 
